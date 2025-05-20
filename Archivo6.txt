@@ -1,1 +1,3 @@
 Prueba 6 .txt modificacion participante B
+Prueba 6 modificacion participante A.txt 
+git ad
